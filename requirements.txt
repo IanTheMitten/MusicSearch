@@ -1,0 +1,10 @@
+requests
+bs4
+urllib
+os
+sys
+subprocess
+shutil
+typing
+lyricsgenius
+yt-dlp
