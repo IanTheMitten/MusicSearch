@@ -1,4 +1,3 @@
-````markdown
 # MusicSearch
 
 MusicSearch is a Python project for searching song lyrics. This repository contains two versions:
@@ -23,7 +22,7 @@ MusicSearch is a Python project for searching song lyrics. This repository conta
 ```bash
 git clone https://github.com/IanTheMitten/MusicSearch.git
 cd MusicSearch
-````
+```
 
 2. Install Python dependencies:
 
